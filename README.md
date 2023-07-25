@@ -15,6 +15,7 @@ The game declares the winner when one of the spaceships runs out of health or re
 # Installation and Usage
 Clone or download this repository.
 Install Python and Pygame if you don't have them installed already.
-You can just run the main.py script to start the game.
+You can just run the main.py script to start the game. Also download the assets folder as it contains the background, sounds and images. 
+
 Have fun playing Space Invaders!
 
